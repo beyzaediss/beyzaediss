@@ -11,7 +11,7 @@ I'm Beyza Edis. <br><br>
 </p>
 
 
-**Programming Languages:**: Python, SQL
+**Programming Languages:**: Python, SQL <br>
 **Data Analyse & Science**: BigQuery, Google Analytics, Looker, PowerBI, Tableau, Apache Airflow
 
 
