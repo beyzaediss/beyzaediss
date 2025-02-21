@@ -10,6 +10,11 @@ I'm Beyza Edis. <br><br>
 - 📚 I’m currently deepening my knowledge in Data Science.
 </p>
 
+
+**Programming Languages:**: Python, SQL
+**Data Analyse & Science**: BigQuery, Google Analytics, Looker, PowerBI, Tableau, Apache Airflow
+
+
 <h3 align="left">🛠 Language and tools</h3>
 
 
